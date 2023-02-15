@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": "^8.1",
-        "henryavila/laravel-manager": "*",
+        "henryavila/laravel-manager": "dev-main",
         "hashids/hashids": "^4.1",
         "illuminate/contracts": "^9.0|^10.0",
         "illuminate/support": "^9.0|^10.0"
